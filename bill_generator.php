@@ -8,7 +8,7 @@ $comments = "optional";
 $udf = "optional";
 $return_url = "https://yourwebsite.com/return_url.php";
 $notify_url = "https://yourwebsite.com/notify_url.php";
-$amount = "100";
+$amount = "100.00";
 $currency = "INR";
 $hash_data = $accessToken . "|" .$uniqueId .   "|" . 
         $comments .    "|" .$udf .        "|" . 
